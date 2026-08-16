@@ -1,0 +1,26 @@
+# Python bytecode and execution caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+.venv/
+venv/
+ENV/
+env/
+
+# Training logs, local models, or checkpoint files
+*.log
+*.pth
+*.bin
+*.onnx
+
+# Environment and secret key files
+.env
+.env.local
+
+# Operating system and code editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
