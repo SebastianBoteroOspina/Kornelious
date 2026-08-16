@@ -6,7 +6,7 @@ A lightweight Small Language Model (SML) chatbot built in Python. Cornelius is d
 
 ## 📁 Project Structure
 
-* **`main.py`**: The main entry point to launch and interact with the Cornelius chatbot interface.
+* **`main.py`**: The main entry point to launch and interact with the Kornelius chatbot interface.
 * **`slm_training.py`**: Script used to train the small language model.
 * **`outcome_probability.py`**: Module with the Bigram Probability dictionary.
 
