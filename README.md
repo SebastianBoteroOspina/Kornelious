@@ -1,4 +1,4 @@
-# Cornelius Chatbot SML
+# Kornelius Chatbot SML
 
 A lightweight Small Language Model (SML) chatbot built in Python. Cornelius is designed to process user inputs, compute outcome probabilities, and generate responsive conversational text locally.
 
