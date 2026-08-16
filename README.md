@@ -1,0 +1,24 @@
+# Cornelius Chatbot SML
+
+A lightweight Small Language Model (SML) chatbot built in Python. Cornelius is designed to process user inputs, compute outcome probabilities, and generate responsive conversational text locally.
+
+---
+
+## 📁 Project Structure
+
+* **`main.py`**: The main entry point to launch and interact with the Cornelius chatbot interface.
+* **`slm_training.py`**: Script used to train or fine-tune the small language model parameters.
+* **`outcome_probability.py`**: Module responsible for calculating prediction probabilities and confidence scores for intent matching.
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+* Python 3.8 or higher installed on your machine.
+
+### Running the Chatbot
+To start chatting with Cornelius, open your terminal and run:
+
+```bash
+python main.py
