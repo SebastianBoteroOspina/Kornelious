@@ -18,7 +18,7 @@ A lightweight Small Language Model (SML) chatbot built in Python. Cornelius is d
 * Python 3.8 or higher installed on your machine.
 
 ### Running the Chatbot
-To start chatting with Cornelius, open your terminal and run:
+To start chatting with Kornelius, open your terminal and run:
 
 ```bash
 python main.py
